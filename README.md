@@ -1,4 +1,4 @@
-# THREE_EDIOT
+# THREE_IDIOT
 
 Indoor Self Driving Cart Control
 -stm32f407vgt
@@ -6,3 +6,5 @@ Indoor Self Driving Cart Control
 Smart Watch
 -stm32f373cbt
 -st7789
+
+2020-03-17
