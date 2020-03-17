@@ -11,10 +11,10 @@ int main() {
 
 	bool q = a < b;
 
-	bool r = a == b; // == : 같다
+	bool r = a == b; // == : same
 
-	// 2 >3 -> 거짓
-	// 참 : 1, 거짓 : 0
+	// 2 >3 -> false
+	// true : 1, false : 0
 
 
 
@@ -23,7 +23,7 @@ int main() {
 	printf("%d\n", r);
 }
 
-// bool : 진리값 저장용 변수 (1바이트)
+// bool : 진리값 저장용 변수 (1byte)
 
 // a >= b : a는 b보다 크거나 같다.
 // a <= b : a는 b보다 작거나 같다.
